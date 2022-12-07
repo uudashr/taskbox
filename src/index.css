@@ -341,7 +341,7 @@ textarea {
 }
 
 .list-item + .list-item {
-  border-top: 3px solid #f0f9fb;
+  border-top: 1px solid #f0f9fb;
 }
 
 .list-item.checked input[type="text"] {
